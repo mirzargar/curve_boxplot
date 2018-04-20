@@ -4,6 +4,9 @@ Computing the curve boxplot for an ensmeble of curves in [NCAR's .dat format](ht
 
 ## Building
 CMake 2.8+
+
 C++11 compiler
+
 CGAL4+
+
 VTK7+
