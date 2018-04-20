@@ -22,3 +22,5 @@ make
 * Note this code has been optimized for intergation to [NCAR's TCGP project](http://hurricanes.ral.ucar.edu/)
 
 ./curveboxplot date_filename modelname date param svg_name lead_time coordnate_bound_filename (color_palette_number)
+
+[Example output for Hurricane Irma from TCGP project's archive](http://hurricanes.ral.ucar.edu/realtime/plots/northatlantic/2017/al112017/eps_track_gefs_boxplot_late/aal11_2017090318_eps_track_gefs_boxplot_late.png)
