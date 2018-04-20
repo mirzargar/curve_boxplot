@@ -5,20 +5,16 @@ Computing the curve boxplot for an ensmeble of 2D curves in [NCAR's .dat format]
 ## Requirements
 ```
 CMake 2.8+
-
 C++11 compiler
-
 CGAL4+
-
 VTK7+
 ```
 ## Building
 ```
 cd curve_boxplot
-
 mkdir build
 cd build
-cmake ../
+cmake ../src or cmake ../ -DVTK_DIR=<VTK build directory> - DCGAL_DIR=<CGAL build directory>
 make
 ```
 
