@@ -1,6 +1,6 @@
 # Curve_boxplot
 
-Computing the curve boxplot for an ensmeble of curves in [NCAR's .dat format](http://hurricanes.ral.ucar.edu/repository/)
+Computing the curve boxplot for an ensmeble of 2D curves in [NCAR's .dat format](http://hurricanes.ral.ucar.edu/repository/). For more details regarding the curve boxplot technique which is a nonparamteric technique to summarize the main features of an ensmeble of multivariate paths consult the [curve boxplot paper](http://www.cs.miami.edu/home/mirzargar/papers/curve_boxplot.pdf)
 
 ## Requirements
 CMake 2.8+
