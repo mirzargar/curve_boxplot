@@ -14,7 +14,7 @@ VTK7+
 cd curve_boxplot
 mkdir build
 cd build
-cmake ../src or cmake ../ -DVTK_DIR=<VTK build directory> - DCGAL_DIR=<CGAL build directory>
+cmake ../src/ or cmake ../src/ -DVTK_DIR=<VTK build directory> - DCGAL_DIR=<CGAL build directory>
 make
 ```
 
