@@ -19,7 +19,7 @@ make
 ```
 
 ## Running
-* Note this code has been optimized for intergation to [NCAR's TCGP project](http://hurricanes.ral.ucar.edu/)
+* Note that this code has been optimized for intergation to [NCAR's TCGP project](http://hurricanes.ral.ucar.edu/)
 
 ```
 ./curveboxplot <data_filename> <modelname> <date> <param> <svg_name> <lead_time> <coordnate_bounds> [color_palette_number]
